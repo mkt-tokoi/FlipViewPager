@@ -1,0 +1,3 @@
+int id guidance_indicator 0x7f030001
+int id guidance_viewpager 0x7f030000
+int layout activity_guidance 0x7f020000

@@ -1,0 +1,6 @@
+int id flipviewpager 0x7f040000
+int id image 0x7f040001
+int id text 0x7f040002
+int layout activity_main 0x7f020000
+int layout activity_main_pager_item 0x7f020001
+int style AppBaseTheme 0x7f030000
