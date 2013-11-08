@@ -3,7 +3,7 @@ FlipViewPager
 
 FlxxBoardのようなページ捲りインタフェースを実現できるViewPagerです。
 
-![sample-apk runtime screenshot.](screenshot.png "sample-apk runtime screenshot.")
+![sample-apk runtime screenshot.](FlipViewPager.sample/screenshot.png "sample-apk runtime screenshot.")
 
 
 使い方
